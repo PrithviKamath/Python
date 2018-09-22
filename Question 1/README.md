@@ -3,6 +3,7 @@
 Below is a daily table for an active accounts at Shopify (an online ecommerce, retail platform).<br />
 <br />
 The table is called store_account and the columns are:<br />
+
 | ColumnName        | DataType           | Description  |
 | ------------- |:-------------:| -----:|
 | store_id      | integer | a unique Shopify store id |
