@@ -1,5 +1,4 @@
-# Statistics_with_Python
+# Practising Python programming
 <br />
-<b>Introduction to Statistical Analysis with Titanic dataset</b> <br />
-<br />
-•	MLE<br />
+•	MLE on Titanic dataset<br />
+•	Data Science Interview practise questions from Interviewqs.com<br />
