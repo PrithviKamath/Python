@@ -3,19 +3,12 @@
 Below is a daily table for an active accounts at Shopify (an online ecommerce, retail platform).<br />
 <br />
 The table is called store_account and the columns are:<br />
-
 | ColumnName        | DataType           | Description  |
 | ------------- |:-------------:| -----:|
 | store_id      | integer | a unique Shopify store id |
 | date      | string |   date |
 | status | string    |    Possible values are: [‘open’, 'closed’, ‘fraud’] |
 | revenue | double      |    Amount of spend in USD |
-
-ColumnName	DataType	  Description <br />
-store_id	  integer	    a unique Shopify store id <br />
-date	      string	    date <br />
-status	    string	    Possible values are: [‘open’, 'closed’, ‘fraud’] <br />
-revenue	    double	    Amount of spend in USD <br />
  <br />
 Here's some more information about the table: <br />
  <br />
