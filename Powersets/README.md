@@ -1,5 +1,9 @@
-# Question 3 - The carshare dilemma
+# Question 6 - Python function to express power sets
 <br />
-We have selected a group of people to take a survey. 35% of the group like Uber, 20% like both Lyft and Uber, and 25% like neither Lyft nor Uber.<br /> 
+Create a Python function that generates the power set given a set of values. For example, if you're given the following set:<br />
 <br />
-Given this information, what percentage of the sample likes Lyft?<br />
+set = {1, 2, 3}<br />
+<br />
+Your python function should return the corresponding power set:<br />
+<br />
+power set = { {}, {1}, {2}, {3}, {1, 2}, {2, 3}, {1, 3}, {1, 2, 3} }<br />
