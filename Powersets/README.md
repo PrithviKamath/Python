@@ -1,4 +1,4 @@
-# Question 6 - Python function to express power sets
+# Python function to express power sets
 <br />
 Create a Python function that generates the power set given a set of values. For example, if you're given the following set:<br />
 <br />
