@@ -1,4 +1,4 @@
-# Question 2 - Calculating a moving average using Python
+# Calculating a moving average using Python
 <br />
 You are given a list of numbers J and a single number p.<br />
 Write a function to return the minimum and maximum averages of the sequences of p numbers in J. <br />
