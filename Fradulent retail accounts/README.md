@@ -1,4 +1,4 @@
-# Question 1- Fradulent retail accounts
+# Fradulent retail accounts
 <br />
 Below is a daily table for an active accounts at Shopify (an online ecommerce, retail platform).<br />
 <br />
